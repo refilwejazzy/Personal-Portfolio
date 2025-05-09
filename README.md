@@ -18,9 +18,7 @@ personal-portfolio/
 └── /images
 └── your-images-here.png
 
-yaml
-Copy
-Edit
+
 
 ---
 
